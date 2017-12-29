@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\f051driverMC.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\pwm_discovery.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\pwmTestV2\pwm_Test_V2.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
